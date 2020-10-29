@@ -1,0 +1,16 @@
+.icon {
+  width:60px;
+}
+.foto {
+  width:100%;
+}
+.link {
+  text-decoration: none;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: rgb(39, 42, 226);
+}
+.link:hover {
+  color: white;
+}
